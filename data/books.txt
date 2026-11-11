@@ -1,0 +1,5 @@
+1|Java Programming|Herbert Schildt|Programming|5|3
+2|Python for Beginners|Mark Lutz|Programming|4|4
+3|Database System Concepts|Korth|Database|3|3
+4|Artificial Intelligence Basics|Elaine Rich|AI|2|2
+5|Data Structures in Java|Robert Lafore|DSA|4|4

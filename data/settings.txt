@@ -1,0 +1,3 @@
+libraryName|My College Library
+finePerDay|5
+issueDuration|14
